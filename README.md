@@ -1,4 +1,4 @@
 # kshitij-demo
-This is my First Github Repository
+Amazon Clone Project
 <br>
 Author - Kshitij Rokade
